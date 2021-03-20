@@ -1,6 +1,6 @@
 ![portada](/assets/english_devs.png)
 
-[Index |](/readme.md) [Previous |](../interview/memo_tips.md)
+[Index |](/readme.md) [Previous](../memo_tips/memo.md)
 
 <h1 align= "center">
 Resources
@@ -13,4 +13,4 @@ Resources
 
 ---
 
-[Index |](/readme.md) [Previous |](../interview/memo_tips.md)
+[Index |](/readme.md) [Previous](../memo_tips/memo.md)
