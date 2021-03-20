@@ -9,9 +9,12 @@ Memo Tips
 ## Table of content
 
 - [Introduce yourself]()
-- [Interview Tips]()
+- [Interview Tips](#interview-tips)
 
+## Introduce yourself
 
+## Interview tips
+![interview tips](../memo_tips/InterviewTips.png)
 ---
 
 [Index |](/readme.md) [Previous |](../interview/interview_grammar.md) [Next](../resources/resources.md)

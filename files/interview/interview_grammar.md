@@ -3,7 +3,7 @@
 [Index |](/readme.md) [Previous |](../presentation/introduce_yourself.md) [Next](../memo_tips/memo.md)
 
 <h1 align= "center">
-    Interviews details
+    Interview details
 </h1>
 
 ---
