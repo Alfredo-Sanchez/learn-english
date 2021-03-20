@@ -7,11 +7,11 @@ English for Devs
 ## Table of content
 
 - [Introduce yourself](files/presentation/introduce_yourself.md)
-- [Interviews]()
-- [IT vocabulary]()
-- [Memo tips]()
-- [Resources]()
----
+- [Interview questions and answers](files/interview/interview.md)
+- [Interview deatails](files/interview/interview_grammar.md)
+- [Memo tips](files/memo_tips/memo.md)
+- [Resources](files/resources/resources.md)
 
+---
 
 [Index |]() [Next](files/presentation/introduce_yourself.md)

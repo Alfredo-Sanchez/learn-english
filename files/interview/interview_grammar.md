@@ -1,9 +1,9 @@
 ![portada](/assets/english_devs.png)
 
-[Index |](/readme.md) [Previous |](../presentation/introduce_yourself.md) [Next]()
+[Index |](/readme.md) [Previous |](../presentation/introduce_yourself.md) [Next](../memo_tips/memo.md)
 
 <h1 align= "center">
-    Details Interviews
+    Interviews details
 </h1>
 
 ---
@@ -71,7 +71,7 @@ We commonly use reach out it with by.
 >*“I recommend **reaching out by** phone if you need to talk to her now.”*
 >*“The hiring manager **reached out to** me by email.”*
 
-**GET INTO**
+:diamonds: **GET INTO**
 
  [gets into; got into; gotten into; getting into]
 
@@ -117,7 +117,7 @@ You’ve probably heard this phrasal verb before, but we can also use run into t
 >*“If you **run into** any trouble, just give me a call.”*
 
 In this context, we can’t separate this phrasal verb.
-s
+
 Synonyms: Come across; come up against
 
 :diamonds: **FOLLOW THROUGH**
@@ -253,8 +253,5 @@ So, when the interview is over, what do you do? Breathe, send a follow-up email 
 Thanks to :sparkles:**In English With Love**:sparkles:, here you can find more to keep learnig.
 
 ---
-[Index |](/readme.md) [Previous |](../presentation/introduce_yourself.md) [Next]()
 
-<div align= "right">
-Aman-sgz / 2021
-</div>
+[Index |](/readme.md) [Previous |](../interview/interview.md) [Next](../memo-tips/memo.md)

@@ -1,6 +1,6 @@
 ![portada](/assets/english_devs.png)
 
-[Index |](/readme.md) [Previous |](../presentation/introduce_yourself.md) [Next]()
+[Index |](/readme.md) [Previous |](../presentation/introduce_yourself.md) [Next](../interview/interview_grammar.md)
 
 <h1 align= "center">
     Interviews
@@ -9,11 +9,11 @@
 ## Table of content
 
 - [Interview questions](#interview-questions)
-- [Answers examples]()
+- [Answers examples](#answers-examples)
 
 ---
-## Interview questions
 
+## Interview questions
 
 :diamonds: **Tell me about yourself**
 
@@ -42,14 +42,15 @@ This question kind of hurts to hear, but don’t let it get you down. It can ins
 So, when you answer this question, don’t just talk about the failure. Talk about what you learned from your mistakes.
 
 
-
 :diamonds: **Can you tell me about a long-term project that you managed and how you managed it?**
 
 about how you can turn any kind of previous experience into a skill 
 
+
 :diamonds: **What would you do if…?**
 
 You might also take this opportunity to demonstrate how you value traits like honesty, consistency, and integrity in the workplace.
+
 
 :diamonds: **How would you describe your ideal boss or manager?**
 You might hear this question and think, “No micromanagers, please!” A micromanager tends to want control and input about everything an employee does. Be honest in your answer, but try to be as positive as possible:
@@ -120,16 +121,13 @@ Before the interview, you can use sites like PayScale or Glassdoor to do some re
 :diamonds: **How much were you making at your last job?**
 
 >*“In my previous job I made _________, but, based on my industry research and the value I can add in this position, I believe I should be paid in the range of _________ to __________.”*
-  
+
+
+
 
 *This is a little extract from this article [*10 tough interview questions and how to answer them in english*](https://www.inenglishwithlove.com/blog/how-to-answer-interview-questions-in-english?rq=interview). 
 Thanks to :sparkles:**In English With Love**:sparkles:, here you can find more to keep learnig.
 
 --- 
 
-[Index |](/readme.md) [Previous |](../presentation/introduce_yourself.md) [Next]()
-
-<div align= "right">
-Aman-sgz / 2021
-</div>
-
+[Index |](/readme.md) [Previous |](../presentation/introduce_yourself.md) [Next](../interview/interview_grammar.md)
