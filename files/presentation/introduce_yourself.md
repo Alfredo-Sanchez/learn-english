@@ -4,8 +4,6 @@
     Introduce yourself
 </h1>
 
----
-
 ## Table of content
 
 - [Tips to remember](#tips-to-remember)
@@ -16,17 +14,17 @@
 
 ## Tips to remember:
 
-Use the present simple for general facts about your life and routines.
+Use the `present simple` for general facts about your life and routines.
 
-Use the present perfect when you talk about your life experiences and achievements.
+Use the `present perfect` when you talk about your life experiences and achievements.
 
-But if you mention a finished time period (last year, in 2010, etc.) use the simple past tense. 
+But if you mention a finished time period (last year, in 2010, etc.) use the `simple past tense`. 
 
 
 
 ## How to introduce yourself in a class
 
-Self-introductions in a class are meant to be brief and conversational. Keep this checklist in mind: 
+Self-introductions in a class are meant to be `brief and conversational`. Keep this checklist in mind: 
 
 - Mention your given name if different from your official name. 
 
@@ -44,14 +42,14 @@ This leads us to something like this:
 
 Here’s another example:
 
->“My name’s Lucia and I’m from Spain. I was born in the south of Spain but I live in Barcelona. I work as a translator, and I don’t have much time for hobbies these days. But in the future, I’d like to try yoga. I’m taking this class because I want to improve my speaking in English.”
+>*“My name’s Lucia and I’m from Spain. I was born in the south of Spain but I live in Barcelona. I work as a translator, and I don’t have much time for hobbies these days. But in the future, I’d like to try yoga. I’m taking this class because I want to improve my speaking in English.”*
 
 
 ## How to introduce yourself in casual situations
 
-Small talk is the perfect example to illustrate this point The best advice is to keep your introductions short and light. You’ll also want to give the other person room for follow-up questions. 
+Small talk is the perfect example to illustrate this point The best advice is to `keep your introductions short and light`. You’ll also want to give the other person room for follow-up questions. 
 
-When it comes to greetings, you could say: “Hey there,” “Morning!” or “What’s up?” 
+When it comes to greetings, you could say: *“Hey there,” “Morning!” or “What’s up?”* 
 
 Here are some examples:
 
@@ -62,9 +60,10 @@ Here are some examples:
 >*Hi Amy. I heard it’s your first day so I thought I could reach out and introduce myself. We haven’t officially met but I’ll be working with you on this project.*
 
 ## How to introduce yourself in a meeting at work
+
 Work meetings are usually planned ahead, but let’s not overlook the importance of the introduction. 
 
-Let’s say you have to lead the meeting. Meetings at work are expected to get straight to the point so start with a quick greeting then share the purpose of the meeting right away.
+Let’s say you have to lead the meeting. Meetings at work are expected to get `straight to the point` so start with a quick greeting then share the purpose of the meeting right away.
 
 Here are some things you should consider when tailoring your introduction:
 
@@ -100,7 +99,7 @@ Here is an example of how you could introduce yourself professionally in English
 
 >*“It’s so nice to finally meet you in person! After graduating from university, I worked in sales for a few years. But three years ago, I started working in digital media marketing and my experience in sales definitely helped. I was able to help the company consistently hit its targets and grow their brand in the industry. I know that you’re looking to grow your influence online, and that’s why I applied for the position…”*
 
-Taking the time to practice your answer will give you the opportunity to share important and relevant information with your interviewer and leave a lasting impression.
+Taking the time to `practice` your answer will give you the opportunity to share important and relevant information with your interviewer and leave a lasting impression.
 
 
 *This is a little extract from this article [*How can I introduce myself in english?*](https://www.inenglishwithlove.com/blog/introduce-yourself-in-english). 
