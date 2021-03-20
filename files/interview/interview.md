@@ -11,30 +11,31 @@
 - [Interview questions](#interview-questions)
 - [Answers examples]()
 
-
+---
 ## Interview questions
 
-- Tell me about yourself.
+
+:diamonds: **Tell me about yourself**
 
 The interviewer wants you to demonstrate your skills, job experience, future goals, and how you’ll fit in with the company culture. For example
 
 
-- What motivates you?
+:diamonds: **What motivates you?**
 
 Keep in mind that they want to know if your skills and character traits are a good fit. You can even refer to a specific situation that demonstrates this:
 
 
-- Where do you see yourself in five years?
+:diamonds: **Where do you see yourself in five years?**
 
 They want to know how your career goals and ambitions fit with the company’s future plans. 
 
 
-- Can you tell me about a time when you had a conflict with someone on your team?
+:diamonds: **Can you tell me about a time when you had a conflict with someone on your team?**
 
 The interviewer wants to know a few things here: How do you work with others? Can you communicate well enough to solve a conflict in a constructive way for the team? A good answer to this question can also help you demonstrate your ability to lead people.
 
 
-- Can you give me an example of a time when you failed to meet a specific goal?
+:diamonds: **Can you give me an example of a time when you failed to meet a specific goal?**
 
 This question kind of hurts to hear, but don’t let it get you down. It can inspire you to look at previous failures and difficulties in a positive light and ask yourself: What did I learn from that? 
 
@@ -42,24 +43,22 @@ So, when you answer this question, don’t just talk about the failure. Talk abo
 
 
 
-- Can you tell me about a long-term project that you managed and how you managed it?
+:diamonds: **Can you tell me about a long-term project that you managed and how you managed it?**
 
 about how you can turn any kind of previous experience into a skill 
 
-- What would you do if…?
+:diamonds: **What would you do if…?**
 
 You might also take this opportunity to demonstrate how you value traits like honesty, consistency, and integrity in the workplace.
 
-- How would you describe your ideal boss or manager?
+:diamonds: **How would you describe your ideal boss or manager?**
 You might hear this question and think, “No micromanagers, please!” A micromanager tends to want control and input about everything an employee does. Be honest in your answer, but try to be as positive as possible:
 
 
-
-
-- Why shouldn’t we hire you?
+:diamonds: **Why shouldn’t we hire you?**
 It sounds a bit harsh, but the interviewer wants to get a sense of how self-reflective you can be and if you are open to feedback and improvement.
 
-- How much were you making at your last job?
+:diamonds: **How much were you making at your last job?**
 
 This question is tough because it’s not exactly fair, especially considering the existence of the gender pay gap. It gives interviewers a way of seeing how much you are worth as an employer without talking about salary directly. 
 
@@ -67,7 +66,7 @@ Before the interview, you can use sites like PayScale or Glassdoor to do some re
 
 ## Answers examples
 
-### Tell me about yourself
+:diamonds: **Tell me about yourself**
 
 >*“Before I got into digital marketing, I worked in insurance for a long time. At the time, I was doing some volunteer social media marketing for my local homeless shelter, and I thought, ‘I really like this!’ I’m definitely a go-getter and someone who likes to take initiative, so when I finally realized I was unhappy in insurance, I decided to make a change, and I was lucky enough to land a job at an advertising agency.  Now, after ten years there, I’ve realized that I’m ready for a more challenging role in leadership.”*
 
