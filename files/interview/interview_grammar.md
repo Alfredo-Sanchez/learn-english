@@ -254,4 +254,4 @@ Thanks to :sparkles:**In English With Love**:sparkles:, here you can find more t
 
 ---
 
-[Index |](/readme.md) [Previous |](../interview/interview.md) [Next](../memo-tips/memo.md)
+[Index |](/readme.md) [Previous |](../interview/interview.md) [Next](../memo_tips/memo.md)

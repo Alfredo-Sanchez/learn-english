@@ -1,4 +1,4 @@
-![portada](assets/english_devs.png)
+![portada](/assets/english_devs.png)
 
 <h1 align= "center">
 Resources

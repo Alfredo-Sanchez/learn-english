@@ -1,4 +1,4 @@
-![portada](assets/english_devs.png)
+![portada](/assets/english_devs.png)
 
 [Index |](/readme.md) [Previous |](../interview/interview_grammar.md) [Next](../resources/resources.md)
 
@@ -10,6 +10,7 @@ Memo Tips
 
 - [Introduce yourself]()
 - [Interview Tips]()
+
 
 ---
 

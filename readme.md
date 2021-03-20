@@ -8,7 +8,7 @@ English for Devs
 
 - [Introduce yourself](files/presentation/introduce_yourself.md)
 - [Interview questions and answers](files/interview/interview.md)
-- [Interview deatails](files/interview/interview_grammar.md)
+- [Interview details](files/interview/interview_grammar.md)
 - [Memo tips](files/memo_tips/memo.md)
 - [Resources](files/resources/resources.md)
 
