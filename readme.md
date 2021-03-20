@@ -6,11 +6,12 @@ English for Devs
 
 ## Table of content
 
-- [Introduce yourself](files/presentation/index.md)
+- [Introduce yourself](files/presentation/introduce_yourself.md)
 - [Interviews]()
-- [Technical vocabulary]()
-
+- [IT vocabulary]()
+- [Memo tips]()
+- [Resources]()
 ---
 
 
-[Index |]() [Next](files/presentation/index.md)
+[Index |]() [Next](files/presentation/introduce_yourself.md)
