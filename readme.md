@@ -13,4 +13,4 @@ English for Devs
 ---
 
 
-[Index |]() [Previous |]() [Next]()
+[Index |]() [Next]()
