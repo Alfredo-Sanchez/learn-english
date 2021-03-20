@@ -1,5 +1,7 @@
 ![portada](/assets/english_devs.png)
 
+[Index |](/readme.md) [Previous |](../interview/memo_tips.md)
+
 <h1 align= "center">
 Resources
 </h1>
@@ -11,4 +13,4 @@ Resources
 
 ---
 
-[Index |]() [Next]()
+[Index |](/readme.md) [Previous |](../interview/memo_tips.md)

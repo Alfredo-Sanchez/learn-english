@@ -11,6 +11,8 @@ Memo Tips
 - [Introduce yourself]()
 - [Interview Tips](#interview-tips)
 
+---
+
 ## Introduce yourself
 
 ## Interview tips

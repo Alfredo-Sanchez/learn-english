@@ -13,6 +13,8 @@
 - [How to introduce yourself in a meeting at work](how-to-introduce-yourself-in-a-meeting-at-work)
 - [How to introduce yourself in an interview](#how-to-introduce-yourself-in-an-interview)
 
+---
+
 ## Tips to remember:
 
 Use the `present simple` for general facts about your life and routines.
