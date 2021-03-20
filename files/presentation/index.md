@@ -25,9 +25,8 @@ But if you mention a finished time period (last year, in 2010, etc.) use the sim
 
 
 ## How to introduce yourself in a class
-So you’re in a class with other students and your teacher asks you to introduce yourself in English.
 
-Self-introductions in a class are meant to be brief and conversational. You don’t need to provide a detailed account of your life. Keep this checklist in mind: 
+Self-introductions in a class are meant to be brief and conversational. Keep this checklist in mind: 
 
 - Mention your given name if different from your official name. 
 
@@ -35,7 +34,7 @@ Self-introductions in a class are meant to be brief and conversational. You don�
 
 - Share an interesting detail about yourself: What do you for fun? What interests you?
 
-= Maybe you’re too busy at work and don’t have time for hobbies. Not a problem! Just talk about a hobby you did in the past, or an activity you’d like to try in the future.
+- Maybe you’re too busy at work and don’t have time for hobbies. Not a problem! Just talk about a hobby you did in the past, or an activity you’d like to try in the future.
 
 - If you’re taking the class by choice, mention the reason you’ve decided to take it.
 
@@ -51,9 +50,7 @@ Here’s another example:
 
 Introducing yourself to a class is one of the first challenges you’ll have to overcome as a new teacher.
 
-First impressions are important. The moment you start talking, your students will start forming an opinion of you. 
-
-So what should you take into account? Here’s my list of tips:
+Here’s a list of tips:
 
 - Keep it light, fun, and professional. 
 
@@ -80,11 +77,10 @@ If you’re looking for creative ways to introduce yourself to your class, here 
 
 
 ## How to introduce yourself in casual situations
-As much I love the rush that’s brought about by spontaneity, there are some situations that turn out better with a little preparation. 
 
 Small talk is the perfect example to illustrate this point. 
 
-The best advice I could give you is to keep your introductions short and light. You’ll also want to give the other person room for follow-up questions. 
+The best advice is to keep your introductions short and light. You’ll also want to give the other person room for follow-up questions. 
 
 When it comes to greetings, you could say: “Hey there,” “Morning!” or “What’s up?” 
 
