@@ -1,4 +1,4 @@
-![portada](assets/learn_english.png)
+![portada](assets/english_devs.png)
 
 <h1 align= "center">
 English for Devs
