@@ -8,13 +8,13 @@ Memo Tips
 
 ## Table of content
 
-- [Introduce yourself]()
+- [Introduce yourself](#introduce-yourself)
 - [Interview Tips](#interview-tips)
 
 ---
 
 ## Introduce yourself
-![interview tips](../memo_tips/introduce.png)
+![introduce yourself](../memo_tips/introduce.png)
 
 ---
 
