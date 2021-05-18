@@ -14,9 +14,13 @@ Memo Tips
 ---
 
 ## Introduce yourself
+![interview tips](../memo_tips/introduce.png)
+
+---
 
 ## Interview tips
 ![interview tips](../memo_tips/InterviewTips.png)
+
 ---
 
 [Index |](/readme.md) [Previous |](../interview/interview_grammar.md) [Next](../resources/resources.md)

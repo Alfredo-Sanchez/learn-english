@@ -10,7 +10,7 @@
 - [Tips to remember](#tips-to-remember)
 - [How to introduce yourself in a class](#how-to-introduce-yourself-in-a-class)
 - [How to introduce yourself in casual situations](#how-to-introduce-yourself-in-casual-situations)
-- [How to introduce yourself in a meeting at work](how-to-introduce-yourself-in-a-meeting-at-work)
+- [How to introduce yourself in a meeting at work](#how-to-introduce-yourself-in-a-meeting-at-work)
 - [How to introduce yourself in an interview](#how-to-introduce-yourself-in-an-interview)
 
 ---
@@ -61,6 +61,7 @@ Here are some examples:
 >*Hey there! I’m Surya. I’m new—I just moved to the building a couple of days ago. Have you lived here for long?*
 
 >*Hi Amy. I heard it’s your first day so I thought I could reach out and introduce myself. We haven’t officially met but I’ll be working with you on this project.*
+
 
 ## How to introduce yourself in a meeting at work
 
